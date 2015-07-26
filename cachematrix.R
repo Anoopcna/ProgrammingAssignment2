@@ -1,5 +1,5 @@
 ## Here are two functions makeCacheMatrix which sets the initial values,
-#assign the values of the vector,and outpting the list of functions used
+#assign the values of the Matrix,and outpting the list of functions used
 #within the main function
 #The later function cacheSolve uses the above function,to compute whether its 
 #Inverse computation for the first time or is already cached ,accordingly,
